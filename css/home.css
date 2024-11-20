@@ -1,0 +1,16 @@
+body{
+  background: rgb(2,0,36);
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 61%, rgba(0,212,255,1) 100%);
+}
+.wieght{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 90px;
+  margin: 50px;
+   color: #790909;
+}
+.buttony:hover{
+background-color: green;
+}
+#demo,#demo1,p{
+  color: antiquewhite;
+}
